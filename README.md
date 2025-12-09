@@ -32,7 +32,9 @@ Pastikan Anda telah menginstal Python 3 dan *pip*.
 
 3.  **Jalankan Aplikasi:**
     ```bash
-
+    python DoublePendulum.py
+    ```
+    *Catatan: Aplikasi dirancang untuk ukuran jendela awal 1200x760.*
 
 ## 🛠️ Struktur Kode
 
